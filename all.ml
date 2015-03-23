@@ -18,6 +18,8 @@ let all = [
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
   "molidaster", "Molidaster" ; 
+  "sacrifice", "Sacrifice" ; 
+  "souvenir", "Souvenir" ; 
 
   
 
