@@ -6,7 +6,8 @@ let all = [
      enfants de la Brume. Elle garde son âme sous le coude en tant
      qu'Archange. *)
 
-
+  (* Les Suidaster reprennent l'Etincelle aux Jouldari. *)
+  "nk771", "NK-771" ;
 
   (* Eugénie, Saïar et Nathan visitent ensemble une usine d'assemblage
      de radios, à Nagovie. *)
@@ -21,6 +22,14 @@ let all = [
   "sacrifice", "Sacrifice" ; 
   "souvenir", "Souvenir" ; 
 
-  
+  (* NB: coeur de la Gwenadir emprisonne par des 
+     vestales --> Adirs/Démons. *)
 
+  (* Giselle parle avec l'Empereur par intermédiaire. *)
+
+  (* Nathan utilise Simmera pour assassiner l'Empereur. *)
+  "biographie", "Biographie" ; 
+
+  (* Nathan organise l'ascension de Sita. *)
+  "couronnement", "Couronnement" ; 
 ]
