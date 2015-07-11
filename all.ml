@@ -29,6 +29,9 @@ let all = [
 
   (* Nathan utilise Simmera pour assassiner l'Empereur. *)
   "biographie", "Biographie" ; 
+  
+  (* Nathan parle au peuple d'Ygao. *)
+  "val-nareth", "Val Nareth"
 
   (* Nathan organise l'ascension de Sita. *)
   "couronnement", "Couronnement" ; 
