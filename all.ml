@@ -45,8 +45,9 @@ let all = [
   (* Saïar extrait le dossier de Morgane. *)
   "extraction", "Extraction" ;
 
-  (* Saïar échappe aux fantômes dans les Arlénides. *)
+  (* Saïar échappe aux Suidinns et fantômes dans les Arlénides. *)
   "secrets", "Secrets" ;
+  "nocturne", "Nocturne" ;
 ]
 
 (* Tiresta détruit Hayako *)
