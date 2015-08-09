@@ -37,4 +37,10 @@ let all = [
   
   (* Tiresta parle à Hayako. *)
   "oublies", "Oubliés" ;
+
+  (* Saïar extrait le dossier de Morgane. *)
+  "extraction", "Extraction" ;
+
+  (* Saïar échappe aux fantômes dans les Arlénides. *)
+  "secrets", "Secrets" ;
 ]
