@@ -34,4 +34,10 @@ let all = [
 
   (* Nathan organise l'ascension de Sita. *)
   "couronnement", "Couronnement" ; 
+
+  (* Saïar extrait le dossier de Morgane. *)
+  "extraction", "Extraction" ;
+
+  (* Saïar échappe aux fantômes dans les Arlénides. *)
+  "secrets", "Secrets" ;
 ]
