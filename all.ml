@@ -39,7 +39,7 @@ let all = [
   (* Nathan organise l'ascension de Sita. *)
   "couronnement", "Couronnement" ; 
   
-  (* Tiresta parle à Hayako. *)
+  (* Tiresta détruit Hayako. *)
   "oublies", "Oubliés" ;
 
   (* Saïar extrait le dossier de Morgane. *)
@@ -50,7 +50,6 @@ let all = [
   "nocturne", "Nocturne" ;
 ]
 
-(* Tiresta détruit Hayako *)
 (* Nathan et Sita négocient son couronnement avec les maisons *)
 (* Extermination des Jouldari *)
 (* Mort de Staniel Suidaster ; la lune disparaît. *)
