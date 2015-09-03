@@ -54,11 +54,16 @@ let all = [
   (* Saïar échappe aux Suidinns et fantômes dans les Arlénides. *)
   "secrets", "Secrets" ;
   "nocturne", "Nocturne" ;
+
+  (* Nathan et Sita négocient son couronnement avec les maisons *)
+  (* Extermination des Jouldari *)
+  
+  
+  (* Mort de Staniel Suidaster ; la lune disparaît. *)
+  "tenebres", "Seigneur des Ténèbres" ;
+  "archanges", "Archanges d'Athanor" ;
 ]
 
-(* Nathan et Sita négocient son couronnement avec les maisons *)
-(* Extermination des Jouldari *)
-(* Mort de Staniel Suidaster ; la lune disparaît. *)
 (* Les Suidinns repoussés par le Culte *)
 (* Le Culte négocie avec les cultes des Adinns *)
 (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
