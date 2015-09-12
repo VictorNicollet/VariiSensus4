@@ -2,6 +2,9 @@ let all = [
 
   (* Michel Onterberg découvre les principes du Varii Sensus. *)
 
+  (* Eugénie et Nathan dans une usine. *)
+  "production", "Production" ;
+
   (* Simmera vient exterminer Michel Onterberg, accompagnée des
      enfants de la Brume. Elle garde son âme sous le coude en tant
      qu'Archange. *)
@@ -9,11 +12,10 @@ let all = [
   (* Les Suidaster reprennent l'Etincelle aux Jouldari. *)
   "nk771", "NK-771" ;
 
-  (* Eugénie, Saïar et Nathan visitent ensemble une usine d'assemblage
-     de radios, à Nagovie. *)
-
   (* Giselle parle avec l'Empereur. *)
   "alliance", "Alliance" ;
+
+  (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
 
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
@@ -26,6 +28,10 @@ let all = [
      pas d'Adir. *)
 
   (* Simmera détruit le Dernier Temple *)
+
+  (* Giselle, Eugénie, Charles, avant leur départ de Nymett. *)
+
+  (* Nathan et Carnaval avant que celle-ci quitte Nymett. *)
 
   (* Giselle parle avec l'Empereur par intermédiaire. *)
 
