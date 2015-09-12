@@ -54,6 +54,7 @@ let all = [
   (* Saïar échappe aux Suidinns et fantômes dans les Arlénides. *)
   "secrets", "Secrets" ;
   "nocturne", "Nocturne" ;
+  "etranger", "Étranger" ;
 
   (* Nathan et Sita négocient son couronnement avec les maisons *)
   (* Extermination des Jouldari *)
