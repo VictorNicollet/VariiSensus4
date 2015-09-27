@@ -1,6 +1,7 @@
-let all = [
+let all = [  
 
-  (* Michel Onterberg découvre les principes du Varii Sensus. *)
+  (* Simmera cherche à remonter en Ygao. *)
+  "survivant", "Un Survivant" ;
 
   (* Eugénie et Nathan dans une usine. *)
   "production", "Production" ;
