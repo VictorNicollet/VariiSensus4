@@ -2,16 +2,15 @@ let all = [
 
   (* Simmera cherche à remonter en Ygao. *)
   "survivant", "Un Survivant" ;
+  
+  (* Les Suidaster reprennent l'Etincelle aux Jouldari. *)
+  "nk771", "NK-771" ;
+
+  (* Simmera repart vers Ygao avec Samuel. *)
+  "aeronef", "Aéronef" ;
 
   (* Eugénie et Nathan dans une usine. *)
   "production", "Production" ;
-
-  (* Simmera vient exterminer Michel Onterberg, accompagnée des
-     enfants de la Brume. Elle garde son âme sous le coude en tant
-     qu'Archange. *)
-
-  (* Les Suidaster reprennent l'Etincelle aux Jouldari. *)
-  "nk771", "NK-771" ;
 
   (* Giselle parle avec l'Empereur. *)
   "alliance", "Alliance" ;
