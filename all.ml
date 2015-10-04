@@ -9,11 +9,14 @@ let all = [
   (* Simmera repart vers Ygao avec Samuel. *)
   "aeronef", "Aéronef" ;
 
-  (* Eugénie et Nathan dans une usine. *)
-  "production", "Production" ;
-
   (* Giselle parle avec l'Empereur. *)
   "alliance", "Alliance" ;
+  
+  (* Simmera et Samuel arivent en Ygao. *)
+  "ygao", "Ygao" ;
+  
+  (* Eugénie et Nathan dans une usine. *)
+  "production", "Production" ;
 
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
 
