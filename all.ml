@@ -28,6 +28,7 @@ let all = [
      pas d'Adir. *)
 
   (* Simmera détruit le Dernier Temple *)
+  "dernier", "Dernier Temple" ;
 
   (* Giselle, Eugénie, Charles, avant leur départ de Nymett. *)
 
