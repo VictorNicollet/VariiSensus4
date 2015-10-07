@@ -57,6 +57,8 @@ let all = [
   "etranger", "Étranger" ;
 
   (* Nathan et Sita négocient son couronnement avec les maisons *)
+  "succession", "Succession" ;
+
   (* Extermination des Jouldari *)
   
   
