@@ -64,7 +64,8 @@ let all = [
   "succession", "Succession" ;
 
   (* Extermination des Jouldari *)
-  
+  "jouldari", "Jouldari" ;
+  "piege", "Piège" ;
   
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
