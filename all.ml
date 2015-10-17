@@ -14,6 +14,7 @@ let all = [
   
   (* Simmera et Samuel arivent en Ygao. *)
   "ygao", "Ygao" ;
+  "intrus", "Intrus" ;
   
   (* Eugénie et Nathan dans une usine. *)
   "production", "Production" ;
