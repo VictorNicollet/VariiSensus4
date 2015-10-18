@@ -71,6 +71,7 @@ let all = [
   (* Couronnement de Sita *)
   "attentat", "Attentat" ;
   "grand-temple", "Grand Temple" ;
+  "boucle", "Boucle" ;
   
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
