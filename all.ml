@@ -68,6 +68,10 @@ let all = [
   "jouldari", "Jouldari" ;
   "piege", "Piège" ;
   
+  (* Couronnement de Sita *)
+  "attentat", "Attentat" ;
+  "grand-temple", "Grand Temple" ;
+  
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
   "archanges", "Archanges d'Athanor" ;
