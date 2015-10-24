@@ -76,6 +76,7 @@ let all = [
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
   "archanges", "Archanges d'Athanor" ;
+  "desert", "Désert" ;
 ]
 
 (* Les Suidinns repoussés par le Culte *)
