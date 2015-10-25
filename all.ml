@@ -19,7 +19,10 @@ let all = [
   (* Eugénie et Nathan dans une usine. *)
   "production", "Production" ;
 
+  (* [interlude pour oublier Nathan] *)
+  
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
+  "prophete", "Prophète" ;
 
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
