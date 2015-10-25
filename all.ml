@@ -23,6 +23,8 @@ let all = [
   
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
   "prophete", "Prophète" ;
+  "clandestine", "Clandestine" ; 
+  "thanadir", "Thanadir" ; 
 
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
