@@ -80,7 +80,10 @@ let all = [
   "attentat", "Attentat" ;
   "grand-temple", "Grand Temple" ;
   "boucle", "Boucle" ;
-  
+
+  (* Préparation de la grande attaque *)
+  "adieux", "Adieux" ; 
+
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
   "archanges", "Archanges d'Athanor" ;
