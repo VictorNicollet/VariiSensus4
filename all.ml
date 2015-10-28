@@ -36,6 +36,9 @@ let all = [
      vestales --> Adirs/Démons. Soleil disparaît quand
      pas d'Adir. *)
 
+  (* Giselle et Ark discutent de l'avenir. *)
+  "arkadir", "Arkadir" ;
+
   (* Simmera détruit le Dernier Temple *)
   "dernier", "Dernier Temple" ;
 
