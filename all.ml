@@ -25,6 +25,7 @@ let all = [
   "prophete", "Prophète" ;
   "clandestine", "Clandestine" ; 
   "thanadir", "Thanadir" ; 
+  "invitation", "Invitation" ;
 
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
