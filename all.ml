@@ -48,6 +48,7 @@ let all = [
   (* Nathan et Carnaval avant que celle-ci quitte Nymett. *)
 
   (* Giselle parle avec l'Empereur par intermédiaire. *)
+  "masque", "Masque" ;
 
   (* Nathan utilise Simmera pour assassiner l'Empereur. 
      Lui inocule les pouvoirs d'Ygg au passage. *)
