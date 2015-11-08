@@ -18,14 +18,14 @@ let all = [
   
   (* Eugénie et Nathan dans une usine. *)
   "production", "Production" ;
-
-  (* [interlude pour oublier Nathan] *)
+  
+  (* Interlude pour oublier Nathan *)
   
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
   "prophete", "Prophète" ;
   "clandestine", "Clandestine" ; 
-  "thanadir", "Thanadir" ; 
-  "invitation", "Invitation" ;
+  + "thanadir", "Thanadir" ; 
+  + "invitation", "Invitation" ;
 
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
@@ -56,6 +56,8 @@ let all = [
   
   (* Nathan parle au peuple d'Ygao. *)
   "val-nareth", "Val Nareth" ;
+  
+  (* Simmera, Jeanne, Giselle. *)
 
   (* Nathan organise l'ascension de Sita. *)
   "couronnement", "Couronnement" ; 
@@ -89,7 +91,7 @@ let all = [
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
   "archanges", "Archanges d'Athanor" ;
-  "desert", "Désert" ;
+  + "desert", "Désert" ;
 
   (* Les Suidinns repoussés par le Culte *)
   "forteresse", "Forteresse" ;
