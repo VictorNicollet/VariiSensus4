@@ -92,6 +92,8 @@ let all = [
   "desert", "Désert" ;
 
   (* Les Suidinns repoussés par le Culte *)
+  "forteresse", "Forteresse" ;
+  
   (* Le Culte négocie avec les cultes des Adinns *)
   (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
   (* Nathan pris au piège par Sita et Simmera *)
