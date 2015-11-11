@@ -24,8 +24,8 @@ let all = [
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
   "prophete", "Prophète" ;
   "clandestine", "Clandestine" ; 
-  + "thanadir", "Thanadir" ; 
-  + "invitation", "Invitation" ;
+  "thanadir", "Thanadir" ; 
+  "invitation", "Invitation" ;
 
   (* Simmera rencontre Staniel, qui lui explique le principe de la 
      passation et de nombreux détails historiques. *)
@@ -44,7 +44,8 @@ let all = [
   "dernier", "Dernier Temple" ;
 
   (* Giselle, Eugénie, Charles, avant leur départ de Nymett. *)
-
+  "randestal", "Randéstal" ;
+  
   (* Nathan et Carnaval avant que celle-ci quitte Nymett. *)
 
   (* Giselle parle avec l'Empereur par intermédiaire. *)
@@ -95,6 +96,7 @@ let all = [
 
   (* Les Suidinns repoussés par le Culte *)
   "forteresse", "Forteresse" ;
+  
   
   (* Le Culte négocie avec les cultes des Adinns *)
   (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
