@@ -19,7 +19,8 @@ let all = [
   (* Eugénie et Nathan dans une usine. *)
   "production", "Production" ;
   
-  (* Interlude pour oublier Nathan *)
+  (* Sita et Carnaval. *)
+  "mefiance", "Méfiance" ;
   
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
   "prophete", "Prophète" ;
@@ -96,7 +97,7 @@ let all = [
 
   (* Les Suidinns repoussés par le Culte *)
   "forteresse", "Forteresse" ;
-  
+  "extermination", "Extermination" ; 
   
   (* Le Culte négocie avec les cultes des Adinns *)
   (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
