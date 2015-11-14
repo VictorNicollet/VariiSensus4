@@ -20,6 +20,7 @@ let all = [
   "production", "Production" ;
   
   (* Interlude pour oublier Nathan *)
+  +++
   
   (* Giselle et Jeanne retrouvent Simmera à Nymett. *)
   "prophete", "Prophète" ;
@@ -32,7 +33,8 @@ let all = [
   "molidaster", "Molidaster" ; 
   "sacrifice", "Sacrifice" ; 
   "souvenir", "Souvenir" ; 
-
+  +++
+  
   (* NB: coeur de la Gwenadir emprisonne par des 
      vestales --> Adirs/Démons. Soleil disparaît quand
      pas d'Adir. *)
@@ -47,6 +49,7 @@ let all = [
   "randestal", "Randéstal" ;
   
   (* Nathan et Carnaval avant que celle-ci quitte Nymett. *)
+  +++
 
   (* Giselle parle avec l'Empereur par intermédiaire. *)
   "masque", "Masque" ;
@@ -59,6 +62,7 @@ let all = [
   "val-nareth", "Val Nareth" ;
   
   (* Simmera, Jeanne, Giselle. *)
+  +++
 
   (* Nathan organise l'ascension de Sita. *)
   "couronnement", "Couronnement" ; 
