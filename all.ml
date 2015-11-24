@@ -33,12 +33,8 @@ let all = [
   "molidaster", "Molidaster" ; 
   "sacrifice", "Sacrifice" ; 
   "souvenir", "Souvenir" ; 
-  +++
+  "gwenadir", "Gwenadir" ;
   
-  (* NB: coeur de la Gwenadir emprisonne par des 
-     vestales --> Adirs/Démons. Soleil disparaît quand
-     pas d'Adir. *)
-
   (* Giselle et Ark discutent de l'avenir. *)
   "arkadir", "Arkadir" ;
 
