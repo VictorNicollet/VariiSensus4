@@ -49,7 +49,7 @@ let all = [
   "randestal", "Randéstal" ;
   
   (* Nathan et Carnaval avant que celle-ci quitte Nymett. *)
-  +++
+  "nagovie", "Nagovie" ;
 
   (* Giselle parle avec l'Empereur par intermédiaire. *)
   "masque", "Masque" ;
@@ -101,7 +101,10 @@ let all = [
   (* Les Suidinns repoussés par le Culte *)
   "forteresse", "Forteresse" ;
   "extermination", "Extermination" ; 
+
+  (* Conseil des ministres après l'extermination *)
   
+
   (* Le Culte négocie avec les cultes des Adinns *)
   (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
   (* Nathan pris au piège par Sita et Simmera *)
