@@ -98,8 +98,10 @@ let all = [
   "forteresse", "Forteresse" ;
   "extermination", "Extermination" ; 
 
+  (* Simmera avec la Meute *)
+
   (* Conseil des ministres après l'extermination *)
-  
+  "victoire", "Victoire" ; 
 
   (* Le Culte négocie avec les cultes des Adinns *)
   (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
