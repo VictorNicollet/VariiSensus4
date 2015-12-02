@@ -110,7 +110,10 @@ let all = [
   (* L'extermination des Parchaki (destruction de la lignée) *)
   (* Retourner dans le passé pour recevoir la protection de Tobias *)
   (* Renvoyer les prédestinés dans le passé *)
+
   (* Rendre visite à Orona dans le passé *)
+  "orona", "Sainte Orona" ;
+
   (* Disparition d'Athanor *)
   (* Manadir à Dresnell *)
   (* Fusion des deux mondes (Banach-Tarski) *)
