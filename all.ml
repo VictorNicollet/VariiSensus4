@@ -92,8 +92,9 @@ let all = [
   (* Mort de Staniel Suidaster ; la lune disparaît. *)
   "tenebres", "Seigneur des Ténèbres" ;
   "archanges", "Archanges d'Athanor" ;
-  + "desert", "Désert" ;
-
+  "desert", "Désert" ;
+  "meute", "La Meute" ;
+  
   (* Les Suidinns repoussés par le Culte *)
   "forteresse", "Forteresse" ;
   "extermination", "Extermination" ; 
