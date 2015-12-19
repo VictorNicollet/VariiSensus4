@@ -58,7 +58,7 @@ let all = [
   "val-nareth", "Val Nareth" ;
   
   (* Simmera, Jeanne, Giselle. *)
-  +++
+  "regicide", "Régicide" ; 
 
   (* Nathan organise l'ascension de Sita. *)
   "couronnement", "Couronnement" ; 
