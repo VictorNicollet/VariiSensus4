@@ -71,7 +71,7 @@ let all = [
 
   (* Saïar échappe aux Suidinns et fantômes dans les Arlénides. *)
   "secrets", "Secrets" ;
-  "nocturne", "Nocturne" ;
+  "nocturnes", "Nocturnes" ;
   "etranger", "Étranger" ;
 
   (* Nathan et Sita négocient son couronnement avec les maisons *)
@@ -99,16 +99,20 @@ let all = [
   "forteresse", "Forteresse" ;
   "extermination", "Extermination" ; 
 
-  (* Simmera avec la Meute *)
-
   (* Conseil des ministres après l'extermination *)
   "victoire", "Victoire" ; 
 
-  (* Le Culte négocie avec les cultes des Adinns *)
-  (* Carnaval assassinée par Giselle (position trouvée par une Gorgone) *)
+  (* Simmera et Kryzcek à Ondolin *)
+  "ondolin", "Ondolin" ;
+
+  (* TOME 5 *)
+
+  (* Onterberg expose son projet à Giselle *)
+  (* Nathan retrouve Carnaval *)
   (* Nathan pris au piège par Sita et Simmera *)
   (* La trahison des Altarane *)
   (* L'extermination des Parchaki (destruction de la lignée) *)
+
   (* Retourner dans le passé pour recevoir la protection de Tobias *)
   (* Renvoyer les prédestinés dans le passé *)
 
