@@ -105,6 +105,7 @@ let all = [
   (* Simmera et Kryzcek à Ondolin *)
   "ondolin", "Ondolin" ;
   "lunaire", "Adir Lunaire" ;
+  "arbitre", "Arbitre" ; 
 
   (* TOME 5 *)
 
