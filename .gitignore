@@ -1,0 +1,7 @@
+*.pdf
+*.png
+epub/*.htm
+*~
+_build
+*byte
+out
