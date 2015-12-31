@@ -110,6 +110,8 @@ let all = [
   (* TOME 5 *)
 
   (* Onterberg expose son projet à Giselle *)
+  "intrusion", "Intrusion" ;
+  
   (* Nathan retrouve Carnaval *)
   (* Nathan pris au piège par Sita et Simmera *)
   (* La trahison des Altarane *)
