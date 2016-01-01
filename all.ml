@@ -115,6 +115,7 @@ let all = [
   (* Nathan retrouve Carnaval *)
   "vareales", "Les Varéales" ;
   "sabordable", "Le Sabordable" ;
+  "servitude", "Servitude" ;
   
   (* Nathan pris au piège par Sita et Simmera *)
   (* La trahison des Altarane *)
