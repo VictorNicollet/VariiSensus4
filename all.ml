@@ -113,6 +113,8 @@ let all = [
   "intrusion", "Intrusion" ;
   
   (* Nathan retrouve Carnaval *)
+  "vareales", "Les Varéales" ;
+  
   (* Nathan pris au piège par Sita et Simmera *)
   (* La trahison des Altarane *)
   (* L'extermination des Parchaki (destruction de la lignée) *)
