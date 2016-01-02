@@ -119,6 +119,8 @@ let all = [
   "antidote", "Antidote" ;
   
   (* Nathan pris au piège par Sita et Simmera *)
+  "soutien", "Soutien" ;
+  
   (* La trahison des Altarane *)
   (* L'extermination des Parchaki (destruction de la lignée) *)
 
