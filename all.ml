@@ -116,6 +116,7 @@ let all = [
   "vareales", "Les Varéales" ;
   "sabordable", "Le Sabordable" ;
   "servitude", "Servitude" ;
+  "antidote", "Antidote" ;
   
   (* Nathan pris au piège par Sita et Simmera *)
   (* La trahison des Altarane *)
