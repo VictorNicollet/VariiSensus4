@@ -106,6 +106,7 @@ let all = [
   "ondolin", "Ondolin" ;
   "lunaire", "Adir Lunaire" ;
   "arbitre", "Arbitre" ; 
+  "than", "Than" ; 
 
   (* TOME 5 *)
 
@@ -117,25 +118,29 @@ let all = [
   "sabordable", "Le Sabordable" ;
   "servitude", "Servitude" ;
   "antidote", "Antidote" ;
+
+  (* Sita, Simmera *)
   
   (* Nathan pris au piège par Sita et Simmera *)
   "soutien", "Soutien" ;
   "immunite", "Immunité" ;
   
-  (* La trahison des Altarane *)
-  (* L'extermination des Parchaki (destruction de la lignée) *)
-
-  (* Retourner dans le passé pour recevoir la protection de Tobias *)
-  (* Renvoyer les prédestinés dans le passé *)
-
+  (* L'extermination des Parchaki (destruction de la lignée) *)  
+  (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
+  (* Samuel, Giselle, Kryzcek -> Dùmera *)
+  (* Tobias, Simmera -> Dùmera *)
+  (* Mort d'Oron, Fastos, Tobias. *)
+  (* Tiresta, Giselle *)  
+  (* Gwen: renvoyer dans le passé pour arrêter Giselle. *)
   (* Rendre visite à Orona dans le passé *)
   "orona", "Sainte Orona" ;
 
   (* Disparition d'Athanor *)
   (* Manadir à Dresnell *)
   (* Fusion des deux mondes (Banach-Tarski) *)
-  (* Ressusciter les morts d'Athanor *)
+   
   (* Tiresta essaye de supprimer Simmera (dernière trace d'Ygg) *)
+  (* Intervention des Mygaën *)
   (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
   (* À l'initiative de Tobias, Simmera est reconnue comme Adinn *)
   (* Epilogue *)
