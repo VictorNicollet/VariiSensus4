@@ -97,6 +97,7 @@ let all = [
   
   (* Les Suidinns repoussés par le Culte *)
   "forteresse", "Forteresse" ;
+  "front", "Sur le Front" ;
   "extermination", "Extermination" ; 
 
   (* Conseil des ministres après l'extermination *)
@@ -119,7 +120,7 @@ let all = [
   "servitude", "Servitude" ;
   "antidote", "Antidote" ;
 
-  (* Sita, Simmera *)
+  (* Jeanne, Simmera *)
   
   (* Nathan pris au piège par Sita et Simmera *)
   "soutien", "Soutien" ;
