@@ -125,6 +125,7 @@ let all = [
   (* Nathan pris au piège par Sita et Simmera *)
   "soutien", "Soutien" ;
   "immunite", "Immunité" ;
+  "sauces", "Le Duc de Sauces" ;
   
   (* L'extermination des Parchaki (destruction de la lignée) *)  
   (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
