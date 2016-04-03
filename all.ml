@@ -121,6 +121,9 @@ let all = [
   "antidote", "Antidote" ;
 
   (* Jeanne, Simmera *)
+  "tatouages", "Tatouages" ; 
+  "absence", "Absence" ; 
+  "ophelie", "Ophélie" ;
   
   (* Nathan pris au piège par Sita et Simmera *)
   "soutien", "Soutien" ;
