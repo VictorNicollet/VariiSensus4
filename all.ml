@@ -131,6 +131,9 @@ let all = [
   "sauces", "Le Duc de Sauces" ;
   "condamnation", "Condamnation" ;
   "passion", "Passion" ; 
+
+  (* Mise en place du nouveau culte de l'Archange *)
+  "morale", "Morale" ;
   
   (* L'extermination des Parchaki (destruction de la lignée) *)  
   (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
