@@ -134,8 +134,11 @@ let all = [
 
   (* Mise en place du nouveau culte de l'Archange *)
   "morale", "Morale" ;
+  "ouverture", "Ouverture" ;
   
   (* L'extermination des Parchaki (destruction de la lignée) *)  
+  "offensive", "Offensive" ; 
+
   (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
   (* Samuel, Giselle, Kryzcek -> Dùmera *)
   (* Tobias, Simmera -> Dùmera *)
