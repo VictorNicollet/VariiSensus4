@@ -140,8 +140,10 @@ let all = [
   "offensive", "Offensive" ; 
 
   (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
-  (* Samuel, Giselle, Kryzcek -> Dùmera *)
   (* Tobias, Simmera -> Dùmera *)
+  (* Samuel, Giselle, Kryzcek -> Dùmera *)
+  "menace", "Menace" ;
+
   (* Mort d'Oron, Fastos, Tobias. *)
   (* Tiresta, Giselle *)  
   (* Gwen: renvoyer dans le passé pour arrêter Giselle. *)
