@@ -123,7 +123,7 @@ let all = [
   (* Jeanne, Simmera *)
   "tatouages", "Tatouages" ; 
   "absence", "Absence" ; 
-  "ophelie", "Ophélie" ;
+  "ophelie", "Cicatrices" ;
   
   (* Nathan pris au piège par Sita et Simmera *)
   "soutien", "Soutien" ;
