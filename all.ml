@@ -135,6 +135,7 @@ let all = [
   (* Mise en place du nouveau culte de l'Archange *)
   "morale", "Morale" ;
   "ouverture", "Ouverture" ;
+  "repos", "Repos" ; 
   
   (* L'extermination des Parchaki (destruction de la lignée) *)  
   "offensive", "Offensive" ; 
