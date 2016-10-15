@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+                 "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid"
+content="urn:http//nicollet.net/book-3"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Les enfants de la Brume</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="title" playOrder="0">
+      <navLabel>
+        <text>Couverture</text>
+      </navLabel>
+      <content src="title.htm"/>
+    </navPoint>
+    <navPoint id="map" playOrder="1">
+      <navLabel>
+        <text>Carte d'Ygao</text>
+      </navLabel>
+      <content src="map.htm"/>
+    </navPoint><navPoint id="chapter-survivant" playOrder="3">
+      <navLabel>
+        <text>1. Un Survivant</text>
+      </navLabel>
+      <content src="survivant.htm"/>
+    </navPoint><navPoint id="chapter-nk771" playOrder="4">
+      <navLabel>
+        <text>2. NK-771</text>
+      </navLabel>
+      <content src="nk771.htm"/>
+    </navPoint><navPoint id="chapter-aeronef" playOrder="5">
+      <navLabel>
+        <text>3. Aéronef</text>
+      </navLabel>
+      <content src="aeronef.htm"/>
+    </navPoint><navPoint id="chapter-alliance" playOrder="6">
+      <navLabel>
+        <text>4. Alliance</text>
+      </navLabel>
+      <content src="alliance.htm"/>
+    </navPoint><navPoint id="chapter-ygao" playOrder="7">
+      <navLabel>
+        <text>5. Ygao</text>
+      </navLabel>
+      <content src="ygao.htm"/>
+    </navPoint><navPoint id="chapter-intrus" playOrder="8">
+      <navLabel>
+        <text>6. Intrus</text>
+      </navLabel>
+      <content src="intrus.htm"/>
+    </navPoint><navPoint id="chapter-production" playOrder="9">
+      <navLabel>
+        <text>7. Production</text>
+      </navLabel>
+      <content src="production.htm"/>
+    </navPoint><navPoint id="chapter-mefiance" playOrder="10">
+      <navLabel>
+        <text>8. Méfiance</text>
+      </navLabel>
+      <content src="mefiance.htm"/>
+    </navPoint><navPoint id="chapter-prophete" playOrder="11">
+      <navLabel>
+        <text>9. Prophète</text>
+      </navLabel>
+      <content src="prophete.htm"/>
+    </navPoint><navPoint id="chapter-clandestine" playOrder="12">
+      <navLabel>
+        <text>10. Clandestine</text>
+      </navLabel>
+      <content src="clandestine.htm"/>
+    </navPoint><navPoint id="chapter-thanadir" playOrder="13">
+      <navLabel>
+        <text>11. Thanadir</text>
+      </navLabel>
+      <content src="thanadir.htm"/>
+    </navPoint><navPoint id="chapter-invitation" playOrder="14">
+      <navLabel>
+        <text>12. Invitation</text>
+      </navLabel>
+      <content src="invitation.htm"/>
+    </navPoint><navPoint id="chapter-molidaster" playOrder="15">
+      <navLabel>
+        <text>13. Molidaster</text>
+      </navLabel>
+      <content src="molidaster.htm"/>
+    </navPoint><navPoint id="chapter-sacrifice" playOrder="16">
+      <navLabel>
+        <text>14. Sacrifice</text>
+      </navLabel>
+      <content src="sacrifice.htm"/>
+    </navPoint><navPoint id="chapter-souvenir" playOrder="17">
+      <navLabel>
+        <text>15. Souvenir</text>
+      </navLabel>
+      <content src="souvenir.htm"/>
+    </navPoint><navPoint id="chapter-gwenadir" playOrder="18">
+      <navLabel>
+        <text>16. Gwenadir</text>
+      </navLabel>
+      <content src="gwenadir.htm"/>
+    </navPoint><navPoint id="chapter-arkadir" playOrder="19">
+      <navLabel>
+        <text>17. Arkadir</text>
+      </navLabel>
+      <content src="arkadir.htm"/>
+    </navPoint><navPoint id="chapter-dernier" playOrder="20">
+      <navLabel>
+        <text>18. Dernier Temple</text>
+      </navLabel>
+      <content src="dernier.htm"/>
+    </navPoint><navPoint id="chapter-randestal" playOrder="21">
+      <navLabel>
+        <text>19. Randéstal</text>
+      </navLabel>
+      <content src="randestal.htm"/>
+    </navPoint><navPoint id="chapter-nagovie" playOrder="22">
+      <navLabel>
+        <text>20. Nagovie</text>
+      </navLabel>
+      <content src="nagovie.htm"/>
+    </navPoint><navPoint id="chapter-masque" playOrder="23">
+      <navLabel>
+        <text>21. Masque</text>
+      </navLabel>
+      <content src="masque.htm"/>
+    </navPoint><navPoint id="chapter-biographie" playOrder="24">
+      <navLabel>
+        <text>22. Biographie</text>
+      </navLabel>
+      <content src="biographie.htm"/>
+    </navPoint><navPoint id="chapter-val-nareth" playOrder="25">
+      <navLabel>
+        <text>23. Val Nareth</text>
+      </navLabel>
+      <content src="val-nareth.htm"/>
+    </navPoint><navPoint id="chapter-regicide" playOrder="26">
+      <navLabel>
+        <text>24. Régicide</text>
+      </navLabel>
+      <content src="regicide.htm"/>
+    </navPoint><navPoint id="chapter-couronnement" playOrder="27">
+      <navLabel>
+        <text>25. Couronnement</text>
+      </navLabel>
+      <content src="couronnement.htm"/>
+    </navPoint><navPoint id="chapter-oublies" playOrder="28">
+      <navLabel>
+        <text>26. Oubliés</text>
+      </navLabel>
+      <content src="oublies.htm"/>
+    </navPoint><navPoint id="chapter-extraction" playOrder="29">
+      <navLabel>
+        <text>27. Extraction</text>
+      </navLabel>
+      <content src="extraction.htm"/>
+    </navPoint><navPoint id="chapter-secrets" playOrder="30">
+      <navLabel>
+        <text>28. Secrets</text>
+      </navLabel>
+      <content src="secrets.htm"/>
+    </navPoint><navPoint id="chapter-nocturnes" playOrder="31">
+      <navLabel>
+        <text>29. Nocturnes</text>
+      </navLabel>
+      <content src="nocturnes.htm"/>
+    </navPoint><navPoint id="chapter-etranger" playOrder="32">
+      <navLabel>
+        <text>30. Étranger</text>
+      </navLabel>
+      <content src="etranger.htm"/>
+    </navPoint><navPoint id="chapter-succession" playOrder="33">
+      <navLabel>
+        <text>31. Succession</text>
+      </navLabel>
+      <content src="succession.htm"/>
+    </navPoint><navPoint id="chapter-jouldari" playOrder="34">
+      <navLabel>
+        <text>32. Jouldari</text>
+      </navLabel>
+      <content src="jouldari.htm"/>
+    </navPoint><navPoint id="chapter-piege" playOrder="35">
+      <navLabel>
+        <text>33. Piège</text>
+      </navLabel>
+      <content src="piege.htm"/>
+    </navPoint><navPoint id="chapter-attentat" playOrder="36">
+      <navLabel>
+        <text>34. Attentat</text>
+      </navLabel>
+      <content src="attentat.htm"/>
+    </navPoint><navPoint id="chapter-grand-temple" playOrder="37">
+      <navLabel>
+        <text>35. Grand Temple</text>
+      </navLabel>
+      <content src="grand-temple.htm"/>
+    </navPoint><navPoint id="chapter-boucle" playOrder="38">
+      <navLabel>
+        <text>36. Boucle</text>
+      </navLabel>
+      <content src="boucle.htm"/>
+    </navPoint><navPoint id="chapter-adieux" playOrder="39">
+      <navLabel>
+        <text>37. Adieux</text>
+      </navLabel>
+      <content src="adieux.htm"/>
+    </navPoint><navPoint id="chapter-tenebres" playOrder="40">
+      <navLabel>
+        <text>38. Seigneur des Ténèbres</text>
+      </navLabel>
+      <content src="tenebres.htm"/>
+    </navPoint><navPoint id="chapter-archanges" playOrder="41">
+      <navLabel>
+        <text>39. Archanges d'Athanor</text>
+      </navLabel>
+      <content src="archanges.htm"/>
+    </navPoint><navPoint id="chapter-desert" playOrder="42">
+      <navLabel>
+        <text>40. Désert</text>
+      </navLabel>
+      <content src="desert.htm"/>
+    </navPoint><navPoint id="chapter-meute" playOrder="43">
+      <navLabel>
+        <text>41. La Meute</text>
+      </navLabel>
+      <content src="meute.htm"/>
+    </navPoint><navPoint id="chapter-forteresse" playOrder="44">
+      <navLabel>
+        <text>42. Forteresse</text>
+      </navLabel>
+      <content src="forteresse.htm"/>
+    </navPoint><navPoint id="chapter-front" playOrder="45">
+      <navLabel>
+        <text>43. Sur le Front</text>
+      </navLabel>
+      <content src="front.htm"/>
+    </navPoint><navPoint id="chapter-extermination" playOrder="46">
+      <navLabel>
+        <text>44. Extermination</text>
+      </navLabel>
+      <content src="extermination.htm"/>
+    </navPoint><navPoint id="chapter-victoire" playOrder="47">
+      <navLabel>
+        <text>45. Victoire</text>
+      </navLabel>
+      <content src="victoire.htm"/>
+    </navPoint><navPoint id="chapter-ondolin" playOrder="48">
+      <navLabel>
+        <text>46. Ondolin</text>
+      </navLabel>
+      <content src="ondolin.htm"/>
+    </navPoint><navPoint id="chapter-lunaire" playOrder="49">
+      <navLabel>
+        <text>47. Adir Lunaire</text>
+      </navLabel>
+      <content src="lunaire.htm"/>
+    </navPoint><navPoint id="chapter-arbitre" playOrder="50">
+      <navLabel>
+        <text>48. Arbitre</text>
+      </navLabel>
+      <content src="arbitre.htm"/>
+    </navPoint><navPoint id="chapter-than" playOrder="51">
+      <navLabel>
+        <text>49. Than</text>
+      </navLabel>
+      <content src="than.htm"/>
+    </navPoint><navPoint id="lexicon" playOrder="53">
+      <navLabel>
+        <text>Glossaire</text>
+      </navLabel>
+      <content src="lexicon.htm"/>
+    </navPoint>  
+   </navMap>
+</ncx>

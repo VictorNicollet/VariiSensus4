@@ -54,7 +54,7 @@ let head_pdf = "\\documentclass[11pt,openany]{book}
   \\verb+ +
 
   \\vfill
-  \\huge{Les enfants de la Brume}\\\\
+  \\huge{La naissance des Adinns}\\\\
   \\large{Victor Nicollet}
 
   \\vfill
@@ -147,7 +147,7 @@ let head_final = "\\documentclass[11pt,openleft,twoside]{book}
   \\verb+ +
 
   \\vfill
-  \\huge{Les enfants de la Brume}\\\\
+  \\huge{La naissance des Adinns}\\\\
   \\large{Victor Nicollet}
 
   \\vfill
@@ -203,7 +203,7 @@ let fin = "
 \\singlespace
 \\vfill
 {\\small
-J'espère que vous avez pris beaucoup de plaisir à lire ce roman ! Pour vous tenir au courant de la sortie des volumes suivants, rendez-vous sur :
+J'espère que vous avez pris beaucoup de plaisir à lire ce roman ! Pour vous tenir au courant de la sortie du dernier volume, rendez-vous sur :
 
 \\verb+http://nicollet.net/book+}
 
@@ -216,7 +216,7 @@ Victor Nicollet
 \\begin{center}
 
 {\\tiny
-  \\textcircled{c} 2015 Victor Nicollet\\\\
+  \\textcircled{c} 2016 Victor Nicollet\\\\
 }
 
 \\end{center}

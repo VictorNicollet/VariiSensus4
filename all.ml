@@ -108,6 +108,9 @@ let all = [
   "lunaire", "Adir Lunaire" ;
   "arbitre", "Arbitre" ; 
   "than", "Than" ; 
+]
+
+let all5 = [
 
   (* TOME 5 *)
 
@@ -124,6 +127,7 @@ let all = [
   "tatouages", "Tatouages" ; 
   "absence", "Absence" ; 
   "ophelie", "Cicatrices" ;
+  "retour", "Retour" ;
   
   (* Nathan pris au piège par Sita et Simmera *)
   "soutien", "Soutien" ;

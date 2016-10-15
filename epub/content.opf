@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Les enfants de la Brume</dc:title>
+    <dc:creator>Victor Nicollet</dc:creator>
+    <dc:identifier
+id="bookid">urn:http//nicollet.net/book-3</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <meta name="cover" content="cover-image" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="title.htm" media-type="application/xhtml+xml"/>
+    <item id="map" href="map.htm" media-type="application/xhtml+xml"/><item id="survivant" href="survivant.htm" media-type="application/xhtml+xml"/><item id="nk771" href="nk771.htm" media-type="application/xhtml+xml"/><item id="aeronef" href="aeronef.htm" media-type="application/xhtml+xml"/><item id="alliance" href="alliance.htm" media-type="application/xhtml+xml"/><item id="ygao" href="ygao.htm" media-type="application/xhtml+xml"/><item id="intrus" href="intrus.htm" media-type="application/xhtml+xml"/><item id="production" href="production.htm" media-type="application/xhtml+xml"/><item id="mefiance" href="mefiance.htm" media-type="application/xhtml+xml"/><item id="prophete" href="prophete.htm" media-type="application/xhtml+xml"/><item id="clandestine" href="clandestine.htm" media-type="application/xhtml+xml"/><item id="thanadir" href="thanadir.htm" media-type="application/xhtml+xml"/><item id="invitation" href="invitation.htm" media-type="application/xhtml+xml"/><item id="molidaster" href="molidaster.htm" media-type="application/xhtml+xml"/><item id="sacrifice" href="sacrifice.htm" media-type="application/xhtml+xml"/><item id="souvenir" href="souvenir.htm" media-type="application/xhtml+xml"/><item id="gwenadir" href="gwenadir.htm" media-type="application/xhtml+xml"/><item id="arkadir" href="arkadir.htm" media-type="application/xhtml+xml"/><item id="dernier" href="dernier.htm" media-type="application/xhtml+xml"/><item id="randestal" href="randestal.htm" media-type="application/xhtml+xml"/><item id="nagovie" href="nagovie.htm" media-type="application/xhtml+xml"/><item id="masque" href="masque.htm" media-type="application/xhtml+xml"/><item id="biographie" href="biographie.htm" media-type="application/xhtml+xml"/><item id="val-nareth" href="val-nareth.htm" media-type="application/xhtml+xml"/><item id="regicide" href="regicide.htm" media-type="application/xhtml+xml"/><item id="couronnement" href="couronnement.htm" media-type="application/xhtml+xml"/><item id="oublies" href="oublies.htm" media-type="application/xhtml+xml"/><item id="extraction" href="extraction.htm" media-type="application/xhtml+xml"/><item id="secrets" href="secrets.htm" media-type="application/xhtml+xml"/><item id="nocturnes" href="nocturnes.htm" media-type="application/xhtml+xml"/><item id="etranger" href="etranger.htm" media-type="application/xhtml+xml"/><item id="succession" href="succession.htm" media-type="application/xhtml+xml"/><item id="jouldari" href="jouldari.htm" media-type="application/xhtml+xml"/><item id="piege" href="piege.htm" media-type="application/xhtml+xml"/><item id="attentat" href="attentat.htm" media-type="application/xhtml+xml"/><item id="grand-temple" href="grand-temple.htm" media-type="application/xhtml+xml"/><item id="boucle" href="boucle.htm" media-type="application/xhtml+xml"/><item id="adieux" href="adieux.htm" media-type="application/xhtml+xml"/><item id="tenebres" href="tenebres.htm" media-type="application/xhtml+xml"/><item id="archanges" href="archanges.htm" media-type="application/xhtml+xml"/><item id="desert" href="desert.htm" media-type="application/xhtml+xml"/><item id="meute" href="meute.htm" media-type="application/xhtml+xml"/><item id="forteresse" href="forteresse.htm" media-type="application/xhtml+xml"/><item id="front" href="front.htm" media-type="application/xhtml+xml"/><item id="extermination" href="extermination.htm" media-type="application/xhtml+xml"/><item id="victoire" href="victoire.htm" media-type="application/xhtml+xml"/><item id="ondolin" href="ondolin.htm" media-type="application/xhtml+xml"/><item id="lunaire" href="lunaire.htm" media-type="application/xhtml+xml"/><item id="arbitre" href="arbitre.htm" media-type="application/xhtml+xml"/><item id="than" href="than.htm" media-type="application/xhtml+xml"/>    <item id="cover-image" href="cover.png" media-type="image/png"/>
+    <item id="map-image-1" href="map-levant.png" media-type="image/png"/>
+    <item id="map-image-2" href="map-ponant.png" media-type="image/png"/>
+    <item id="map-image-3" href="map-centre.png" media-type="image/png"/>
+    <item id="map-image-4" href="map-levant.png" media-type="image/png"/>
+    <item id="css" href="main.css" media-type="text/css"/>
+    <item id="lexicon" href="lexicon.htm" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="map" linear="no"/>
+<itemref idref="survivant"/><itemref idref="nk771"/><itemref idref="aeronef"/><itemref idref="alliance"/><itemref idref="ygao"/><itemref idref="intrus"/><itemref idref="production"/><itemref idref="mefiance"/><itemref idref="prophete"/><itemref idref="clandestine"/><itemref idref="thanadir"/><itemref idref="invitation"/><itemref idref="molidaster"/><itemref idref="sacrifice"/><itemref idref="souvenir"/><itemref idref="gwenadir"/><itemref idref="arkadir"/><itemref idref="dernier"/><itemref idref="randestal"/><itemref idref="nagovie"/><itemref idref="masque"/><itemref idref="biographie"/><itemref idref="val-nareth"/><itemref idref="regicide"/><itemref idref="couronnement"/><itemref idref="oublies"/><itemref idref="extraction"/><itemref idref="secrets"/><itemref idref="nocturnes"/><itemref idref="etranger"/><itemref idref="succession"/><itemref idref="jouldari"/><itemref idref="piege"/><itemref idref="attentat"/><itemref idref="grand-temple"/><itemref idref="boucle"/><itemref idref="adieux"/><itemref idref="tenebres"/><itemref idref="archanges"/><itemref idref="desert"/><itemref idref="meute"/><itemref idref="forteresse"/><itemref idref="front"/><itemref idref="extermination"/><itemref idref="victoire"/><itemref idref="ondolin"/><itemref idref="lunaire"/><itemref idref="arbitre"/><itemref idref="than"/>  
+    <itemref idref="lexicon" linear="no"/>
+    </spine>
+  <guide>
+    <reference href="title.htm" type="cover" title="Les enfants de la Brume"/>
+  </guide>
+</package>
