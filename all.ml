@@ -150,6 +150,7 @@ let all5 = [
 
   (* Samuel, Giselle, Kryzcek -> Dùmera *)
   "menace", "Menace" ;
+  "destruction", "Destruction" ;
 
   (* Mort d'Oron, Fastos, Tobias. *)
   (* Tiresta, Giselle *)  
