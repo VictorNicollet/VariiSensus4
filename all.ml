@@ -146,6 +146,8 @@ let all5 = [
 
   (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
   (* Tobias, Simmera -> Dùmera *)
+  "appel", "Appel" ;
+
   (* Samuel, Giselle, Kryzcek -> Dùmera *)
   "menace", "Menace" ;
 
