@@ -136,6 +136,9 @@ let all5 = [
   "condamnation", "Condamnation" ;
   "passion", "Passion" ; 
 
+  (* Rendre visite à Orona dans le passé *)
+  "orona", "Sainte Orona" ; (* ++ *)
+  
   (* Mise en place du nouveau culte de l'Archange *)
   "morale", "Morale" ;
   "ouverture", "Ouverture" ;
@@ -150,13 +153,21 @@ let all5 = [
 
   (* Samuel, Giselle, Kryzcek -> Dùmera *)
   "menace", "Menace" ;
-  "destruction", "Destruction" ;
+  "destruction", "Destruction" ; (* ++ *)
 
   (* Mort d'Oron, Fastos, Tobias. *)
+  "mortalite", "Mortalité" ;
+
+  (* Simmera devient Gwenadir. *)
+  "chatiment", "Châtiment" ;
+  "flamme", "Flamme" ; 
+  
   (* Tiresta, Giselle *)  
+  "disparition", "Disparition" ; 
+  "prison", "Prison" ; (* ++ *)
+  
   (* Gwen: renvoyer dans le passé pour arrêter Giselle. *)
-  (* Rendre visite à Orona dans le passé *)
-  "orona", "Sainte Orona" ;
+  "genese", "La Genèse" ;
 
   (* Disparition d'Athanor *)
   (* Manadir à Dresnell *)
