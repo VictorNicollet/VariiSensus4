@@ -168,7 +168,9 @@ let all5 = [
   
   (* Gwen: renvoyer dans le passé pour arrêter Giselle. *)
   "genese", "La Genèse" ;
-
+  "fragile", "Fragile" ;
+  "conversion", "Conversion" ;
+  
   (* Disparition d'Athanor *)
   (* Manadir à Dresnell *)
   (* Fusion des deux mondes (Banach-Tarski) *)
