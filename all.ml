@@ -137,7 +137,8 @@ let all5 = [
   "passion", "Passion" ; 
 
   (* Rendre visite à Orona dans le passé *)
-  "orona", "Sainte Orona" ; (* ++ *)
+  "plans", "Plans" ;
+  "orona", "Sainte Orona" ; 
   
   (* Mise en place du nouveau culte de l'Archange *)
   "morale", "Morale" ;
