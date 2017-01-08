@@ -177,7 +177,8 @@ let all5 = [
   (* Fusion des deux mondes (Banach-Tarski) *)
    
   (* Tiresta essaye de supprimer Simmera (dernière trace d'Ygg) *)
-  (* Intervention des Mygaën *)
+  "epilogue", "Épilogue" ;
+
   (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
   (* À l'initiative de Tobias, Simmera est reconnue comme Adinn *)
   (* Epilogue *)
