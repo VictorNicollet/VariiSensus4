@@ -178,6 +178,7 @@ let all5 = [
    
   (* Tiresta essaye de supprimer Simmera (dernière trace d'Ygg) *)
   "epilogue", "Épilogue" ;
+  "empire", "Empire" ;
 
   (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
   (* À l'initiative de Tobias, Simmera est reconnue comme Adinn *)
