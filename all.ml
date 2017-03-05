@@ -180,6 +180,9 @@ let all5 = [
   "epilogue", "Épilogue" ;
   "empire", "Empire" ;
 
+  (* Saïar trouve le chemin de Nagovie *)
+  "survivants", "Survivants";
+
   (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
   (* À l'initiative de Tobias, Simmera est reconnue comme Adinn *)
   (* Epilogue *)
