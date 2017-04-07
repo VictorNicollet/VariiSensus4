@@ -5,7 +5,7 @@ let all = [
   
   (* Les Suidaster reprennent l'Etincelle aux Jouldari. *)
   "nk771", "NK-771" ;
-
+  
   (* Simmera repart vers Ygao avec Samuel. *)
   "aeronef", "Aéronef" ;
 
@@ -182,8 +182,16 @@ let all5 = [
 
   (* Saïar trouve le chemin de Nagovie *)
   "survivants", "Survivants";
+  "ornifax", "Ornifax" ; 
+  "chasse", "Chasse" ;
+
+  (* Simmera prisonnière au Dùao *)
+  "pensee", "Pensée" ;
+  "rapport", "Rapport" ;
+  "alliees", "Alliées" ;
 
   (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
-  (* À l'initiative de Tobias, Simmera est reconnue comme Adinn *)
+
+
   (* Epilogue *)
 ]
