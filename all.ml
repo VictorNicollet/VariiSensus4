@@ -154,7 +154,7 @@ let all5 = [
 
   (* Samuel, Giselle, Kryzcek -> Dùmera *)
   "menace", "Menace" ;
-  "destruction", "Destruction" ; (* ++ *)
+  "destruction", "Destruction" ;
 
   (* Mort d'Oron, Fastos, Tobias. *)
   "mortalite", "Mortalité" ;
@@ -187,11 +187,12 @@ let all5 = [
 
   (* Simmera prisonnière au Dùao *)
   "pensee", "Pensée" ;
+  
+  (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
   "rapport", "Rapport" ;
   "alliees", "Alliées" ;
 
-  (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
-
+  "suidir", "Suidir" ;
 
   (* Epilogue *)
 ]
