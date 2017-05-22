@@ -139,6 +139,9 @@ let all5 = [
   (* Rendre visite à Orona dans le passé *)
   "plans", "Plans" ;
   "orona", "Sainte Orona" ; 
+
+  (* Hans Banach en Athanor *)
+  "athanor", "Athanor" ; 
   
   (* Mise en place du nouveau culte de l'Archange *)
   "morale", "Morale" ;
