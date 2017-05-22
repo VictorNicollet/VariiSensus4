@@ -191,8 +191,9 @@ let all5 = [
   (* Nathan arrive à convaincre Jeanne de le réincarner en Tiresta *)
   "rapport", "Rapport" ;
   "alliees", "Alliées" ;
-
+  "tiresta", "Tiresta" ;
   "suidir", "Suidir" ;
 
   (* Epilogue *)
+  
 ]
