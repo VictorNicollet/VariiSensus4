@@ -151,7 +151,6 @@ let all5 = [
   (* L'extermination des Parchaki (destruction de la lignée) *)  
   "offensive", "Offensive" ; 
 
-  (* Saïar découvre les tortures des Altarane en enquêtant sur Samuel *)
   (* Tobias, Simmera -> Dùmera *)
   "appel", "Appel" ;
 
@@ -168,7 +167,7 @@ let all5 = [
   
   (* Tiresta, Giselle *)  
   "disparition", "Disparition" ; 
-  "prison", "Prison" ; (* ++ *)
+  "prison", "Prison" ; 
   
   (* Gwen: renvoyer dans le passé pour arrêter Giselle. *)
   "genese", "La Genèse" ;
